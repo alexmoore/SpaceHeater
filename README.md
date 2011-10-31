@@ -4,6 +4,8 @@ First off, this program *could* kill your computer - so use at your own discreti
 
 This program will run useless computations on 75% of your logical processors, to generate extra heat.  
 
+The program will exit after 5 minutes, or when you press any key.
+
 Works best with multicore machines.
 
 # What do I need to use this?
